@@ -24,6 +24,6 @@ jobs:
         uses: hpicgs/github-software-analytics-embedding@v0.6.0
         with:
           # Optional, use if you want to analyse a specific folder
-          repository_path: ./source
+          # repository_path: ./source
           # Optional to enable benchmarking
           benchmark: true
